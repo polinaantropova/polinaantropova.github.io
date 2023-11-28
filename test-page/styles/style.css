@@ -1,0 +1,67 @@
+/*p,
+h1 {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+  }*/
+
+html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+
+html {
+    background-color: #9eafec;
+  }
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+h2 {
+    font-size: 40px;
+  }
+
+h3 {
+    font-size: 30px;   
+  }
+
+h4 {
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  p,
+  li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+a {
+    font-size: 24px;
+    line-height: 4;
+    letter-spacing: 3px;
+}
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #d2efce;
+    padding: 0 20px 20px 20px;
+    border: 2px solid rgb(76, 11, 95);
+  }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+  }
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 700px;
+  }
